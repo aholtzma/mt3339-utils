@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 EPO=${1-MTK14.EPO}
 file=${2-$EPO}
